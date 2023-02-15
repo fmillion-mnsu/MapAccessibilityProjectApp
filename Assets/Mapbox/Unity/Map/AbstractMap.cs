@@ -932,6 +932,7 @@ namespace Mapbox.Unity.Map
 				foreach (var tileId in tilesToProcess)
 				{
 					_mapVisualizer.State = ModuleState.Working;
+					Debug.Log($"Processing tile {tileId}.");
 					TileProvider_OnTileAdded(tileId);
 				}
 			}
