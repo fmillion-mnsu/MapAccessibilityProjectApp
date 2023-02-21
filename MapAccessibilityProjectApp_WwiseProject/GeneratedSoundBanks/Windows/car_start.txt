@@ -1,0 +1,6 @@
+Event	ID	Name			Wwise Object Path	Notes
+	2493341045	Play_car_start			\Default Work Unit\Play_car_start	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	245937949	car_start	C:\Users\Wen Sun\Documents\GitHub\MapAccessibilityProjectApp\MapAccessibilityProjectApp_WwiseProject\.cache\Windows\SFX\startup_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\car_start		222672
+

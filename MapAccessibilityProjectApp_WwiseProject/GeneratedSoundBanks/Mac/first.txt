@@ -1,0 +1,6 @@
+Event	ID	Name			Wwise Object Path	Notes
+	2681937174	Play_1__Track_1			\Default Work Unit\Play_1__Track_1	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	1035978035	1_ Track 1	C:\Users\Wen Sun\Documents\GitHub\MapAccessibilityProjectApp\MapAccessibilityProjectApp_WwiseProject\.cache\Mac\SFX\1. Track 1_D79FB2B7.wem		\Actor-Mixer Hierarchy\Default Work Unit\1_ Track 1		20109744
+
